@@ -32,4 +32,5 @@ active (int64)
 Проверка - PY Client POST.ipynb  
 
 Клонировать репозиторий:  
-git@github.com:marina-druzh/ML-in-business.git
+
+$ git clone https://github.com/marina-druzh/ML-in-business.git
