@@ -30,3 +30,6 @@ active (int64)
 Аналитика и очистка данных приведена в ноутбуке - course_project_ml_in_business_ipynb__.ipynb  
 Серверная часть - run_server.py  
 Проверка - PY Client POST.ipynb  
+
+Клонировать репозиторий:  
+git@github.com:marina-druzh/ML-in-business.git
