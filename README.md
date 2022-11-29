@@ -27,6 +27,6 @@ active (int64)
 Модель: CatBoost
 
 ## Описание:
-Аналитика и очистка данных приведена в ноутбуке - 
-Серверная часть - run_server.py
-Проверка - course_project_ml_in_business_ipynb__.ipynb
+Аналитика и очистка данных приведена в ноутбуке - course_project_ml_in_business_ipynb__.ipynb  
+Серверная часть - run_server.py  
+Проверка - PY Client POST.ipynb  
