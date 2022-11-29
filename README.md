@@ -25,3 +25,8 @@ active (int64)
 Преобразования признаков: StandardScaler, OHEEncoderBin
 
 Модель: CatBoost
+
+## Описание:
+Аналитика и очистка данных приведена в ноутбуке - 
+Серверная часть - run_server.py
+Проверка - course_project_ml_in_business_ipynb__.ipynb
